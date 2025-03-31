@@ -17,16 +17,16 @@ Welcome to my professional portfolio website! This project showcases my skills, 
 
 VOGUE-CARTER
 
-E-commerce platform with modern design
-GitHub Repo | Live Demo
+(E-commerce platform with modern design)
+
 Spotify Web Player Clone
 
-Music streaming web application
-GitHub Repo | Live Demo
+(Music streaming web application)
+
 Airbnb Clone
 
-Vacation rental platform clone
-GitHub Repo | Live Demo
+(Vacation rental platform clone)
+
 
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/ca0c477a-4667-4e6b-a298-15c6e25bfd46)
