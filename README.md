@@ -1,4 +1,32 @@
 # My-Portfolio
+🌟 Portfolio Overview
+
+Welcome to my professional portfolio website! This project showcases my skills, experience, and projects as a Software Developer currently pursuing B.Tech in Industrial & Production Engineering at NITJ.
+
+📌 Key Features
+
+✔️ Responsive design for all devices
+✔️ Clean, modern UI/UX
+✔️ Project showcase section
+✔️ Skills assessment visualization
+✔️ Contact form functionality
+✔️ Downloadable CV
+
+
+🚀 Featured Projects
+
+VOGUE-CARTER
+
+E-commerce platform with modern design
+GitHub Repo | Live Demo
+Spotify Web Player Clone
+
+Music streaming web application
+GitHub Repo | Live Demo
+Airbnb Clone
+
+Vacation rental platform clone
+GitHub Repo | Live Demo
 
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/ca0c477a-4667-4e6b-a298-15c6e25bfd46)
